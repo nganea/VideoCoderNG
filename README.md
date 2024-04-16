@@ -26,6 +26,6 @@ The program looks for the indicated video in the 'movies' folder and saves the d
 ### BIO:
 My background is in Experimental Psychology - I've conducted many studies on infants' perception and learning. I've learned to code because I wanted to control precisely the timing of my stimuli and easily change the display on the screen when the little ones get bored. Many of my studies have involved recording whether babies are looking at the screen during the experiment (+ recording EEG data). Although I code babies' looking behaviour online, as the experiment is running, I sometimes need to code frame-by-frame where the baby is looking. I wrote this script to allow me frame-by-frame coding (I saved a lot of money by not buying Mangold Interact :)).
 
-### Copyright © 2019 Natasa Ganea. All Rights Reserved.
+### MIT License Copyright © 2019 Natasa Ganea.
 ========================
 ![Demo Image](https://github.com/nganea/VideoCodingNG/blob/main/Demo_999.png)
